@@ -1,8 +1,8 @@
 {
-  "name": "xinmei-ui",
-  "version": "1.0.50",
-  "description": "新媒组件库",
-  "author": "gyp“\n\n\ngit config --global user.name gyp“ <guoyipeng@feinno.com>",
+  "name": "custom-xm-ui",
+  "version": "1.0.0",
+  "description": "自定义xm组件库",
+  "author": "wolfBerry<906368017@qq.com>",
   "private": false,
   "main": "packages/index.js",
   "scripts": {
